@@ -8,5 +8,5 @@ public class HealthCheck {
             System.out.println("Nginx is running ✅");
         else
             System.out.println("Nginx is down ❌");
-    }
-}
+    
+
